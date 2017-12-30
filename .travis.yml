@@ -7,4 +7,4 @@ before_install:
   - cd php
 
 script:
-  - phpunit --bootstrap HMS/register.php --debug --coverage-text test
+  - phpunit HMS/register.php
