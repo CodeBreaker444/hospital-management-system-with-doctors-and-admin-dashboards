@@ -1,4 +1,4 @@
-# Hospital Management System With Doctor & Admin Dashboards
+# Hospital Management System With Doctor & Admin Dashboards ![](https://travis-ci.org/CodeBreaker444/hospital-management-system-with-doctors-and-admin-dashboards.svg?branch=master)
 ## Features
 - Registration with Slots.
 - Individual Doctors Dasboards.
