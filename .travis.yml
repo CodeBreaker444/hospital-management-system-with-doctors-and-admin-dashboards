@@ -7,4 +7,4 @@ php:
 before_install:
   - cd HMS
 script:
-  - phpunit --bootstrap register-back.php --debug --coverage-text test
+  - php register-back.php
