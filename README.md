@@ -1,15 +1,27 @@
-# hospital-management-system-codebreaker
-Complete Hospital Management System With Doctors,Admin Dashboard
-------------------------------------------------------------------------------------------------
-Uncomment the lines in register.php and add it to the query on line 34,To track the IP ADDRESSES.
+# Hospital Management System With Doctor & Admin Dashboards
+## Features
+- Registration with Slots.
+- Individual Doctors Dasboards.
+- Admin Dashboard.
+- Email Alerts.
+- IP Filtering.
 
-### HMS/a/index.php  ---------------//_ADMIN DASHBOARD WITH WRITE ACCESS TO THE DATABASE(DELETE,EDIT)._ 
-### HMS/d/index.php  ---------------//_DOCTORS DASHBOARD WITH READ ONLY ACCESS(ALIGNED BASED ON USER SELECTION)._
+## Requirements:
+- Browser.
+- Apache Server(xampp,wamp..etc).
 
+##  Provided Files:
+- Admin Dashboard in Folder > `a`
+- Doctors Dashboard in Folder > `d`
+- Sql Tables for Import > `hms.sql.zip`
 
-##ISSUES OR IMPROVEMENTS OR REQUESTS ARE OPENED
+> Note: This project is created in xampp and sublime is used as code editor(Feel free to do the sam).
 
---------------------------------------------------------------------------
+## Personal INFO:
+`Donations Help Me to Keep The Support and Development:` [Click Here](https://paypal.me/zer0error).
 
-##Donations Help Me to Keep The Support and Development: https://paypal.me/zer0error 
-##FollowMe: https://facebook.com/zer0error/
+`FollowMe:` [Click Here](https://facebook.com/zer0error/).
+
+`PlayStore Link:` [Codebreaker](https://play.google.com/store/apps/dev?id=8331274631553271784&hl=en).
+
+`Website:` [StarTech](http://cbstartech.com).
