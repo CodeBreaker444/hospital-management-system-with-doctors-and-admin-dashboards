@@ -4,4 +4,4 @@ php:
   - 5.4
 
 script:
-  - phpunit --bootstrap HMS/register.php --debug --coverage-text test
+  - phpunit --bootstrap HMS/register.php
